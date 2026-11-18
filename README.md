@@ -1,7 +1,111 @@
-# Hexa — Downloads
+<div align="center">
 
-Installateurs complets du compagnon Hexa pour Windows (première installation). Les fichiers sont dans les Releases.
+<img src="assets/hexa-3d.png" alt="Hexa, le compagnon d'IT6" width="240">
 
-Les mises à jour sont dans le dépôt [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates).
+# Télécharger Hexa pour Windows
 
-Le code source n'est pas ici.
+**Hexa, ton IA de bureau, joyeuse et discrète.**
+
+**Hexa flotte sur ton écran Windows, répond à tes questions, garde tes tâches et dévore tes documents.<br>Et avant chaque envoi à l'IA, il remplace tes données sensibles par des jetons.**
+
+[![Télécharger pour Windows](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Windows%2010%20%2F%2011-7C4DFF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/IT6-Dev/Hexa-Downloads/releases/latest)
+[![Site it6.fr](https://img.shields.io/badge/D%C3%A9couvrir-it6.fr-3D7BFF?style=for-the-badge)](https://www.it6.fr)
+
+Hébergé dans l'UE · Tes contenus n'entraînent aucune IA · Dès 14,90 € TTC par mois
+
+</div>
+
+---
+
+## Le projet Hexa
+
+Hexa est né chez **IT6** d'une idée simple : offrir aux indépendants, aux TPE et aux équipes une IA vraiment utile au quotidien, **sans faire fuiter les données de leurs clients**.
+
+Le projet tient en trois pièces :
+
+| | Pièce | Rôle |
+|---|---|---|
+| 🖥️ | **Le compagnon Windows** | La mascotte qui vit sur ton bureau. Elle discute, gère tes tâches, lit tes documents et pseudonymise tout ce qui part vers l'IA, directement sur ton PC. |
+| 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
+| 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
+
+**Où en est-on ?** Version **1.3.7** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+
+---
+
+## Un petit hexagone, plein de super-pouvoirs
+
+Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il cligne de l'œil, réfléchit, s'étonne, rigole. Et surtout, il bosse.
+
+<p align="center"><img src="assets/expressions.png" alt="Les expressions d'Hexa : salut, clin d'œil, ravi, parle, réfléchit, surpris, oups" width="100%"></p>
+
+| | |
+|---|---|
+| 📄 **Glisse, dépose, c'est réglé** | Dépose un contrat, un rapport ou une facture : Hexa propose de le résumer, le traduire, le relire ou d'en lister les dates clés. Jusqu'à 150 pages et 15 Mo. |
+| ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
+| ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
+| 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
+| 📰 **Te tient au courant** | Météo, actualités, réponses à jour cherchées sur le web, avec la source. |
+| 📱 **Te suit sur ton téléphone** | Avec Telegram, tu continues la conversation hors du bureau et tu reçois tes rappels. |
+| ⚡ **Te fait gagner des clics** | Ouvrir une appli, lancer une recherche, copier un texte prêt à coller, verrouiller le PC quand tu pars. |
+| 🧠 **Se souvient de toi** | Tes préférences et ton contexte de travail, pour des réponses qui collent. Tu peux lui demander d'oublier à tout moment. |
+
+---
+
+## L'IA ne voit pas tes vraies données
+
+Avant chaque envoi, Hexa remplace sur ton PC les noms, IBAN, téléphones, e-mails, adresses, numéros de sécu ou de carte par des jetons. La réponse revient avec les vrais mots, remis **sur ton PC**.
+
+| Ce que tu écris | Ce que voit l'IA |
+|---|---|
+| Mme Claire Fontaine confirme le virement de l'IBAN FR76 3000 6000 0112 3456 7890 189. | [PERSONNE_1] confirme le virement de l'IBAN [IBAN_1]. |
+
+- Pseudonymisation sur le PC, puis une seconde passe sur le serveur central d'IT6
+- Pour une image, dont le texte ne peut pas être masqué, Hexa te demande ton accord avant l'envoi
+- Hébergement dans l'Union européenne
+- Aucune réutilisation de tes contenus pour entraîner des modèles
+- Historique, tâches et notes stockés sur ton PC, chiffrés, effacés après 30 jours, exportables et supprimables en un clic
+- Tes propres termes à protéger (nom d'un client, d'un projet)
+- Contrat de sous-traitance (DPA) inclus dans les offres pro
+
+**Ce qu'Hexa refuse, toujours** : pornographie, piratage, deepfakes. Même « pour un test ».
+
+---
+
+## Les offres
+
+| | **Solo** | **Pro** | **Équipe** |
+|---|:---:|:---:|:---:|
+| Pour qui | Particuliers, indépendants | Professions libérales, TPE | Entreprises, dès 3 postes |
+| Prix | **14,90 € TTC / mois** | **29 € HT / mois** | **24 € HT / poste / mois** |
+| Demandes par mois | 400 | 1 500 | 1 200 par poste |
+| Contrat de sous-traitance (DPA) | | ✓ | ✓ |
+
+Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.it6.fr). Les entreprises peuvent aussi avoir un Hexa à leurs couleurs.
+
+---
+
+## Installer Hexa
+
+| | Pour qui | Lien |
+|---|---|---|
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-1.3.7.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v1.3.7/Hexa-Installation-1.3.7.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
+
+1. Télécharge l'installateur, puis double-clique dessus.
+2. Si Windows affiche un avertissement, clique sur « Informations complémentaires » puis « Exécuter quand même ».
+3. Hexa apparaît sur ton bureau et près de l'horloge.
+
+Pour savoir si une nouvelle version existe : clic droit sur l'icône d'Hexa près de l'horloge → **Rechercher une mise à jour…** (Hexa vérifie aussi tout seul de temps en temps).
+
+Configuration : Windows 10 ou 11. Pas encore disponible sur Mac. Le code source n'est pas publié ici.
+
+---
+
+<div align="center">
+
+**Hexa prépare, tu décides.**
+
+<sub>Hexa est une intelligence artificielle : ses réponses peuvent contenir des erreurs. Vérifie les informations importantes.<br>Un produit <a href="https://www.it6.fr">IT6</a>.</sub>
+
+</div>
