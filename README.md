@@ -29,7 +29,7 @@ Le projet tient en trois pièces :
 | 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
 | 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
 
-**Où en est-on ?** Version **1.5.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+**Où en est-on ?** Version **1.5.1** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
 
 ---
 
@@ -63,6 +63,7 @@ Avant chaque envoi, Hexa remplace sur ton PC les noms, IBAN, téléphones, e-mai
 - Pseudonymisation sur le PC, puis une seconde passe sur le serveur central d'IT6
 - Pour une image, dont le texte ne peut pas être masqué, Hexa te demande ton accord avant l'envoi
 - Pour une recherche publique (l'adresse ou les horaires d'une entreprise, par exemple), seul le nom recherché part en clair, et Hexa te le dit
+- Factures et reçus déposés deviennent un tableau Excel comptable (totaux, TVA par taux, doublons signalés)
 - Un bouton 🔓 permet d'envoyer un message sans masquage, au cas par cas, quand tu le décides
 - Hébergement dans l'Union européenne
 - Aucune réutilisation de tes contenus pour entraîner des modèles
@@ -91,7 +92,7 @@ Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.
 
 | | Pour qui | Lien |
 |---|---|---|
-| 💿 **Installateur complet** | Première installation | [Hexa-Installation-1.5.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v1.5.0/Hexa-Installation-1.5.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-1.5.1.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v1.5.1/Hexa-Installation-1.5.1.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
 | 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
 
 1. Télécharge l'installateur, puis double-clique dessus.
