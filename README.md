@@ -42,6 +42,7 @@ Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il c
 | | |
 |---|---|
 | 📄 **Glisse, dépose, c'est réglé** | Dépose un contrat, un rapport ou une facture, même scannée : Hexa propose de le résumer, le traduire, le relire ou d'en lister les dates clés. Un scan devient un Word modifiable ou un PDF où le texte se recherche. Jusqu'à 150 pages et 15 Mo. |
+| 📊 **Tes factures en tableau** | Dépose tes factures et reçus, même scannés : Hexa en fait un Excel comptable avec totaux, TVA par taux et doublons signalés. |
 | ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
 | ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
 | 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
@@ -63,7 +64,6 @@ Avant chaque envoi, Hexa remplace sur ton PC les noms, IBAN, téléphones, e-mai
 - Pseudonymisation sur le PC, puis une seconde passe sur le serveur central d'IT6
 - Pour une image, dont le texte ne peut pas être masqué, Hexa te demande ton accord avant l'envoi
 - Pour une recherche publique (l'adresse ou les horaires d'une entreprise, par exemple), seul le nom recherché part en clair, et Hexa te le dit
-- Factures et reçus déposés deviennent un tableau Excel comptable (totaux, TVA par taux, doublons signalés)
 - Un bouton 🔓 permet d'envoyer un message sans masquage, au cas par cas, quand tu le décides
 - Hébergement dans l'Union européenne
 - Aucune réutilisation de tes contenus pour entraîner des modèles
