@@ -29,7 +29,7 @@ Le projet tient en trois pièces :
 | 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
 | 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
 
-**Où en est-on ?** Version **2.4.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+**Où en est-on ?** Version **2.5.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
 
 ---
 
@@ -53,6 +53,7 @@ Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il c
 | 👔 **À ton métier** | Comptable, juriste, RH, BTP… : Hexa adapte ses réponses, ses suggestions et même sa mascotte à ton métier. |
 | 🗓️ **Ton activité, ton métier** | Raccourcis, échéances habituelles et vocabulaire de ton métier dans l'onglet Activité, avec rappel en un clic. |
 | 📁 **Projets nommés** | Un dossier par client ou par affaire dans Documents\Hexa\Projets, devis et factures rangés dedans, rien n'est jamais écrasé |
+| 🧰 **Boîte à outils de ton métier** | Les gestes clés de ton métier en un clic ; pour l'informaticien, des scripts .ps1 / .bat commentés avec mode simulation, jamais exécutés par Hexa |
 | ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
 | ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
 | 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
@@ -102,7 +103,7 @@ Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.
 
 | | Pour qui | Lien |
 |---|---|---|
-| 💿 **Installateur complet** | Première installation | [Hexa-Installation-2.4.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v2.4.0/Hexa-Installation-2.4.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-2.5.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v2.5.0/Hexa-Installation-2.5.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
 | 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
 
 1. Télécharge l'installateur, puis double-clique dessus.
