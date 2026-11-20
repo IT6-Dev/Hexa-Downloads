@@ -29,7 +29,7 @@ Le projet tient en trois pièces :
 | 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
 | 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
 
-**Où en est-on ?** Version **3.0.14** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+**Où en est-on ?** Version **3.0.15** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
 
 ---
 
@@ -64,6 +64,7 @@ Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il c
 | 📬 **Mails en attente** | En haut de l’onglet Activité : « Vous avez N mails en attente ». Coche « Traité » au fur et à mesure, puis « Effacer les traités ». Ta boîte mail n’est jamais modifiée. |
 | 🧭 **Barre latérale** | Toutes tes discussions à gauche, classées par date, avec recherche, dossiers Pro / Perso et un menu ⋮. Pastilles utiles : mails en attente, choses à faire. Se replie en icônes. |
 | 📊 **Excel piloté** | « Fais-moi le tableau des ventes avec un graphique » : Hexa remplit ton Excel en direct, formules, mise en forme, tri, tableau croisé et graphique, puis l'enregistre sans rien écraser. |
+| ⏰ **Mails et rappels au premier plan** | Tes mails urgents dans la fenêtre d'Hexa (liste complète, historique, Traité en un clic) ; à l'heure d'un rappel, Hexa sonne et revient devant toi, même fenêtre réduite. |
 | ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
 | ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
 | 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
@@ -113,7 +114,7 @@ Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.
 
 | | Pour qui | Lien |
 |---|---|---|
-| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.0.14.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.0.14/Hexa-Installation-3.0.14.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.0.15.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.0.15/Hexa-Installation-3.0.15.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
 | 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
 
 1. Télécharge l'installateur, puis double-clique dessus.
