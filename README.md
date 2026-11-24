@@ -29,7 +29,7 @@ Le projet tient en trois pièces :
 | 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
 | 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
 
-**Où en est-on ?** Version **3.11.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+**Où en est-on ?** Version **3.12.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
 
 ---
 
@@ -70,6 +70,7 @@ Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il c
 | 💻 **Tes infos sur tous tes PC** | Rappels, discussions, mémoire et réglages te suivent sur chaque PC de ta licence, chiffrés de bout en bout avec ton mot de passe Hexa : IT6 ne peut rien lire. Chaque nouveau PC est autorisé par toi ; un code de secours à garder par e-mail te dépanne. |
 | 👥 **Partage une discussion** | Avec tes collègues, ou un client pour les professions libérales : chacun y pose ses questions à Hexa. Chiffré de bout en bout, même IT6 ne peut pas lire. |
 | 🧰 **L'Atelier** | Factures et notes de frais en Excel ou CSV (IBAN masqué), deux devis ou contrats comparés ligne par ligne, un rendez-vous client préparé en 5 points clés, et le coffre de modèles avec la charte de rédaction de ta société. |
+| ⌨️ **Complète ta phrase** | Pendant que tu écris, Hexa propose des demandes toutes faites pour ton métier et tes demandes habituelles : Tab, et c'est écrit. |
 | ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
 | ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
 | 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
@@ -119,7 +120,7 @@ Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.
 
 | | Pour qui | Lien |
 |---|---|---|
-| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.11.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.11.0/Hexa-Installation-3.11.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.12.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.12.0/Hexa-Installation-3.12.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
 | 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
 
 1. Télécharge l'installateur, puis double-clique dessus.
