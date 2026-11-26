@@ -29,7 +29,7 @@ Le projet tient en trois pièces :
 | 🛡️ | **L'IA centrale d'IT6** | Le serveur hébergé dans l'UE qui gère les licences et les quotas, refait une seconde passe de masquage et applique les garde-fous avant de confier la demande à l'IA. Il ne conserve aucun contenu. |
 | 💬 | **Hexa sur le site** | Le même personnage sur [it6.fr](https://www.it6.fr), pour accueillir les visiteurs et répondre aux questions. |
 
-**Où en est-on ?** Version **3.13.1** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
+**Où en est-on ?** Version **3.14.0** disponible pour Windows 10 et 11. Ce n'est que la première pierre : de nouveaux pouvoirs arrivent à chaque version.
 
 ---
 
@@ -72,6 +72,7 @@ Hexa, c'est un compagnon violet et bleu qui vit dans un coin de ton bureau. Il c
 | 🧰 **L'Atelier** | Factures et notes de frais en Excel ou CSV (IBAN masqué), deux devis ou contrats comparés ligne par ligne, un rendez-vous client préparé en 5 points clés, et le coffre de modèles avec la charte de rédaction de ta société. |
 | ⌨️ **Complète ta phrase** | Pendant que tu écris, Hexa propose des demandes toutes faites pour ton métier et tes demandes habituelles : Tab, et c'est écrit. |
 | 📑 **Appels d'offres, réunions, procédures** | Un dossier d'appel d'offres résumé (dates clés, critères, pièces à cocher, clauses à risque) et la trame du mémoire technique ; le compte rendu d'une réunion avec qui fait quoi pour quand ; un texte reformulé plus diplomate, plus ferme, plus clair ou plus court ; des notes en vrac transformées en procédure interne. |
+| 🦉 **Choisis ta mascotte** | Hexa reste la mascotte par défaut ; douze autres personnages au choix (Bip, Sage, Nova…) dans Réglages > Apparence, jusque dans la barre latérale et les réponses. |
 | ✍️ **Rédige le premier jet** | Mails, courriers, réponses clients : un texte propre, prêt à copier, dans ton ton. |
 | ✅ **Garde le fil de ta journée** | Tâches, rappels qui reviennent, minuteurs, notes : « rappelle-moi de relancer le devis lundi », et c'est noté. |
 | 🌍 **Traduit sans trahir** | Une traduction qui garde le sens et le vocabulaire métier. |
@@ -121,7 +122,7 @@ Sans engagement en mensuel. Tarifs annuels et détails sur [it6.fr](https://www.
 
 | | Pour qui | Lien |
 |---|---|---|
-| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.13.1.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.13.1/Hexa-Installation-3.13.1.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
+| 💿 **Installateur complet** | Première installation | [Hexa-Installation-3.14.0.exe](https://github.com/IT6-Dev/Hexa-Downloads/releases/download/v3.14.0/Hexa-Installation-3.14.0.exe) · [toutes les versions](https://github.com/IT6-Dev/Hexa-Downloads/releases) |
 | 🔄 **Mise à jour** | Tu as déjà Hexa | [Hexa-Updates](https://github.com/IT6-Dev/Hexa-Updates/releases/latest) |
 
 1. Télécharge l'installateur, puis double-clique dessus.
